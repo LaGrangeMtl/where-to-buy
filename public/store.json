@@ -1,0 +1,1711 @@
+// 20190607115336
+// http://www.mdgfog.com/?t=partner&i=61&l=en&e=json
+
+[
+	{
+	  "id": 1,
+	  "name": "MDG Fog Generators Ltd.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-mdg.jpg",
+	  "address": "10301 avenue Pelletier<br />\nMontréal, Québec<br />\nH1H 3R2, Canada",
+	  "country": "",
+	  "location": {
+		"lat": 45.587508,
+		"lng": -73.628301
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+1 514 272 6040",
+		  " +1 800 663 3020"
+		],
+		"fax": [
+		  "+1 514 722 3229"
+		],
+		"email": [
+		  "info@mdgfog.com"
+		],
+		"website": "www.mdgfog.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/MDGFog",
+		"twitter": "https://twitter.com/MDGFog",
+		"googleplus": "https://plus.google.com/u/0/b/100424675914716398215/+Mdgfog/",
+		"youtube": "https://www.youtube.com/user/MDGFog",
+		"linkedin": "https://www.linkedin.com/company/mdg-fog-generators"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 2,
+	  "name": "Skyfox",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-skyfox.jpg",
+	  "address": "18 Vardanants St<br />\n0010 Yerevan<br />\nArmenia",
+	  "country": "AM",
+	  "location": {
+		"lat": 40.175786,
+		"lng": 44.519594
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Emil Yaghj"
+		],
+		"phone": [
+		  ""
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "info@skyfox.am"
+		],
+		"website": "www.skyfox.am"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 3,
+	  "name": "ULA Group",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-ula-group.jpg",
+	  "address": "1/28 Expo Court<br />\nAshmore, QLD 4214<br />\nAustralia",
+	  "country": "AU",
+	  "location": {
+		"lat": -27.981655,
+		"lng": 153.385686
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+1300 852 476"
+		],
+		"fax": [
+		  "+1800 852 329"
+		],
+		"email": [
+		  "info@ulagroup.com"
+		],
+		"website": "www.ulagroup.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/Total.Visual.Solutions",
+		"twitter": "https://twitter.com/ulagroup",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/ULAgroup",
+		"linkedin": "https://www.linkedin.com/company/262609?trk=tyah"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 4,
+	  "name": "ULA Group",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-ula-group.jpg",
+	  "address": "9/51 Bourke Road<br />\nAlexandria, NSW 2015<br />\nAustralia",
+	  "country": "AU",
+	  "location": {
+		"lat": -33.912554,
+		"lng": 151.19199
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+1300 852 476"
+		],
+		"fax": [
+		  "+1800 852 329"
+		],
+		"email": [
+		  "info@ulagroup.com"
+		],
+		"website": "www.ulagroup.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/Total.Visual.Solutions",
+		"twitter": "https://twitter.com/ulagroup",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/ULAgroup",
+		"linkedin": "https://www.linkedin.com/company/262609?trk=tyah"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 5,
+	  "name": "ULA Group",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-ula-group.jpg",
+	  "address": "3/5 Phillip Court<br />\nPort Melbourne, VIC 3207<br />\nAustralia",
+	  "country": "AU",
+	  "location": {
+		"lat": -37.82546,
+		"lng": 144.921148
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+1300 852 476"
+		],
+		"fax": [
+		  "+1800 852 329"
+		],
+		"email": [
+		  "info@ulagroup.com"
+		],
+		"website": "www.ulagroup.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/Total.Visual.Solutions",
+		"twitter": "https://twitter.com/ulagroup",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/ULAgroup",
+		"linkedin": "https://www.linkedin.com/company/262609?trk=tyah"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 6,
+	  "name": "CAST C. ADOLPH &amp; RST Distribution GmbH",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-cast.jpg",
+	  "address": "Kabeler StraBe 54a<br />\n58099 Hagen<br />\nGermany",
+	  "country": "DE",
+	  "location": {
+		"lat": 51.408493,
+		"lng": 7.479033
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Stefan Rosenkranz"
+		],
+		"phone": [
+		  "+49 2331 691500"
+		],
+		"fax": [
+		  "+49 2331 688412"
+		],
+		"email": [
+		  "mail@castinfo.de"
+		],
+		"website": "www.RSTdistribution.de"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/pages/cast-CAdolph-RST-Distribution-GmbH/142020025888541",
+		"twitter": "https://twitter.com/castinfo_de/",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 7,
+	  "name": "AED Distribution NV",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-aed-distribution.jpg",
+	  "address": "Bedrijvenpark<br />\nDe Veert 13/004<br />\n2830 Willebroek<br />\nBelgium",
+	  "country": "BE",
+	  "location": {
+		"lat": 51.067232,
+		"lng": 4.353094
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+32 3 860 76 50"
+		],
+		"fax": [
+		  "+32 3 860 76 51"
+		],
+		"email": [
+		  "info@aeddistribution.com"
+		],
+		"website": "www.aeddistribution.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/AEDgroupHQ",
+		"twitter": "https://twitter.com/AEDgroup",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/AEDgroupHQ",
+		"linkedin": "https://www.linkedin.com/company/aed-group-headquarters"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 8,
+	  "name": "LIGHTING BITS Ltda",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-lighting-bits.jpg",
+	  "address": "Rua Lopes Chaves, 472<br />\nBarra Funda, Sao Paulo<br />\n01154-010<br />\nBrazil",
+	  "country": "BR",
+	  "location": {
+		"lat": -23.529833,
+		"lng": -46.659781
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Daniel Ridano"
+		],
+		"phone": [
+		  "+55 11 2359 0470",
+		  " +55 11 99120 4755"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "contato@Lbits.com.br"
+		],
+		"website": "www.Lbits.com.br/"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 9,
+	  "name": "PROLIGHT",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/ProLight-color-01.jpg",
+	  "address": "Kustosijanska 8<br />\nZagreb 10000<br />\nCroatia",
+	  "country": "HR",
+	  "location": {
+		"lat": 45.814544,
+		"lng": 15.927429
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Hrvoje Simic"
+		],
+		"phone": [
+		  "+385 1 3015 593"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "info@prolight.hr"
+		],
+		"website": "www.prolight.hr"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/Prolight",
+		"twitter": "https://twitter.com/prolight",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/ProlightLasershow",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 10,
+	  "name": "TSI s.r.o.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-tsi-s-r-o.jpg",
+	  "address": "Jesenická č.p. 816<br />\nDolní Jirčany<br />\n252 44 Praha - západ<br />\nCzech Republic",
+	  "country": "CZ",
+	  "location": {
+		"lat": 49.954676,
+		"lng": 14.529677
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Ladislav Uher"
+		],
+		"phone": [
+		  "+420 777 771 711"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "info@tsi.cz"
+		],
+		"website": "www.tsi.cz"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/tsi.cz/?fref=ts",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 11,
+	  "name": "GOBO &amp; HIGHLIGHT A/S",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-gobo-highlight.jpg",
+	  "address": "Vermunsgade 40<br />\nCopenhaguen 2100<br />\nDenmark",
+	  "country": "DK",
+	  "location": {
+		"lat": 49.954676,
+		"lng": 14.529677
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Poul Tonder"
+		],
+		"phone": [
+		  "+45 7020 1966"
+		],
+		"fax": [
+		  "+45 7020 1967"
+		],
+		"email": [
+		  "pt@gobo.dk"
+		],
+		"website": "www.gobo.dk"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 12,
+	  "name": "AXENTE",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/Logo-Axente-IDS.jpg",
+	  "address": "1, allée d’Effiat<br />\nParc de l’Évènement, Bat. H<br />\nLongjumeau 91160<br />\nFrance",
+	  "country": "FR",
+	  "location": {
+		"lat": 48.697986,
+		"lng": 2.289586
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Alain-René Lantelme"
+		],
+		"phone": [
+		  "+33 1 69 10 50 70"
+		],
+		"fax": [
+		  "+33 1 69 10 50 71"
+		],
+		"email": [
+		  "alain@axente.fr"
+		],
+		"website": "www.axente.fr"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/pages/Axente/314756241912706?fref=ts",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 13,
+	  "name": "MSONIC OY",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/image001.jpg",
+	  "address": "Kiitoradantie 11<br />\n01530 Vantaa<br />\nFinland",
+	  "country": "FI",
+	  "location": {
+		"lat": 60.303416,
+		"lng": 24.987644
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Janne Koivulahti"
+		],
+		"phone": [
+		  "+358 10 439 8800",
+		  "+358 40 591 5484"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "light@msonic.fi"
+		],
+		"website": "www.msonic.fi"
+	  },
+	  "social": {
+		"facebook": "http://www.facebook.com/msonicoy",
+		"twitter": "http://www.twitter.com/msonicoy",
+		"googleplus": "http://plus.google.com/msonicoy",
+		"youtube": "",
+		"linkedin": "http://www.linkedin.com/msonicoy"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 15,
+	  "name": "PACIFIC LIGHTING (HK) LTD.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-pacific-lighting.jpg",
+	  "address": "Unit 9<br />\n10th Floor Cornell Center<br />\n50 Wing Tai, Chai Wan<br />\nHong Kong",
+	  "country": "HK",
+	  "location": {
+		"lat": 22.267456,
+		"lng": 114.242862
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Hugh Chinnick"
+		],
+		"phone": [
+		  "+852 289 65557"
+		],
+		"fax": [
+		  "+852 289 83858"
+		],
+		"email": [
+		  "hugh@pacificlighting.net"
+		],
+		"website": "www.pacificlighting.net"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 16,
+	  "name": "MOLPASS S.R.L.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-molpass-srl.jpg",
+	  "address": "Via Albert Bruce Sabin, 30<br />\nSan Giovanni in Persiceto 40017<br />\nItaly",
+	  "country": "IT",
+	  "location": {
+		"lat": 44.632556,
+		"lng": 11.174257
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Giorgio Molinari"
+		],
+		"phone": [
+		  "+390 51 68 74 711"
+		],
+		"fax": [
+		  "+390 51 68 74 726"
+		],
+		"email": [
+		  "info@molpass.it"
+		],
+		"website": "www.molpass.it"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/molpass",
+		"twitter": "https://twitter.com/molpass",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/MolpassSrl",
+		"linkedin": "https://www.linkedin.com/company/molpass/"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 17,
+	  "name": "MODERN STAGE SERVICE",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-modern-stage-service.jpg",
+	  "address": "35, New Municipal Mkt.<br />\nLodhi Road<br />\nNew Delhi 110 003<br />\nIndia",
+	  "country": "IN",
+	  "location": {
+		"lat": 28.582236,
+		"lng": 77.226161
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Varinder Wadhwa"
+		],
+		"phone": [
+		  "+91 11 24619543"
+		],
+		"fax": [
+		  "+91 11 24627788"
+		],
+		"email": [
+		  "info@modernstageservice.in"
+		],
+		"website": "www.modernstageservice.in"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 19,
+	  "name": "JAPAN OPTO ELECTRONICS",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-japan-opto.jpg",
+	  "address": "#1308 Orient Akasaka Mortsite<br />\n1-1-7 Motoakasaka, Minato-Ku<br />\nTokyo 107-0051<br />\nJapan",
+	  "country": "JP",
+	  "location": {
+		"lat": 35.678076,
+		"lng": 139.734565
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Hironobu Sato"
+		],
+		"phone": [
+		  "+813 3 3405 1035"
+		],
+		"fax": [
+		  "+813 3 3405 1037"
+		],
+		"email": [
+		  "joe-lev@nifty.com"
+		],
+		"website": ""
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 20,
+	  "name": "THEATER ENGINEERING",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-theater-engineering.jpg",
+	  "address": "5-28-20 Kyodo<br />\nSetagaya-ku<br />\nTokyo 156-0052<br />\nJapan",
+	  "country": "JP",
+	  "location": {
+		"lat": 35.647589,
+		"lng": 139.634437
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Naoaki Takeuchi"
+		],
+		"phone": [
+		  "+81-3-3706-5611"
+		],
+		"fax": [
+		  "+81-3-3706-6788"
+		],
+		"email": [
+		  "info@thea-eng.co.jp"
+		],
+		"website": "www.thea-eng.co.jp"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 21,
+	  "name": "C&amp;C Lightway Inc.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-cc-lightway-inc.jpg",
+	  "address": "C&amp;amp;C Bldg. 29 Banpo-daero,<br />\nSeocho-Gu, Seoul 137-687<br />\nKorea",
+	  "country": "KR",
+	  "location": {
+		"lat": 37.483086,
+		"lng": 127.011665
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+82 2 6912 7000"
+		],
+		"fax": [
+		  "+82 2 6912 7099"
+		],
+		"email": [
+		  "info@cclightway.com"
+		],
+		"website": "www.cclightway.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/cclightway",
+		"twitter": "https://twitter.com/cclightway",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 22,
+	  "name": "COMPANY NA",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-company-na.jpg",
+	  "address": "Lambertu street 9<br />\nMarupe LV-2167<br />\nLATVIA",
+	  "country": "LV",
+	  "location": {
+		"lat": 56.912301,
+		"lng": 24.027184
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Janis Stikuts"
+		],
+		"phone": [
+		  "+371 6780 1111"
+		],
+		"fax": [
+		  "+371 6755 6505"
+		],
+		"email": [
+		  "na@na.lv"
+		],
+		"website": "www.na.lv"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 23,
+	  "name": "ROBE Middle East Trading LLC",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-robe-middle-east-trading-llc.jpg",
+	  "address": "Office Nbr 507<br />\nAl Asmawi Building<br />\nDubai Investment Park – 1<br />\nPo Box 391 898, Dubai, UAE",
+	  "country": "AE",
+	  "location": {
+		"lat": 24.998679,
+		"lng": 55.171315
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Elie Battah"
+		],
+		"phone": [
+		  "+971 4 885 3223"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "elie.battah@robe.cz"
+		],
+		"website": "www.robe-me.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/ROBELIGHTING",
+		"twitter": "https://twitter.com/Robelighting",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/RobeLightingTube",
+		"linkedin": "https://www.linkedin.com/company/robe-lighting-s.r.o."
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 24,
+	  "name": "ROLIGHT",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-rolight.jpg",
+	  "address": "Josink Kolkweg 18<br />\n7545 PR Enschede<br />\nNetherlands",
+	  "country": "NL",
+	  "location": {
+		"lat": 52.214221,
+		"lng": 6.845096
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Robert Winters"
+		],
+		"phone": [
+		  "+31 534 320 644"
+		],
+		"fax": [
+		  "+31 534 301 201"
+		],
+		"email": [
+		  "info@rolight.nl"
+		],
+		"website": "www.rolight.nl"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/RolightNL",
+		"twitter": "https://twitter.com/rolightNL",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 25,
+	  "name": "ATENDI A/S",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo_atendi.png",
+	  "address": "Hans Kiærs Gate 2 <br />\nNO-3041 Drammen<br />\nNorway",
+	  "country": "NO",
+	  "location": {
+		"lat": 59.732082,
+		"lng": 10.220307
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Petter Nilssen"
+		],
+		"phone": [
+		  "+47 91 80 2000"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "pn@atendi.no"
+		],
+		"website": "www.atendi.no"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/elektriksolutions",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 26,
+	  "name": "PROLIGHT Sp. z o.o.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/Prolight.jpg",
+	  "address": "ul. 3 Maja 183<br />\n05-800 Pruszkow<br />\nPoland",
+	  "country": "PL",
+	  "location": {
+		"lat": 52.185847,
+		"lng": 20.778181
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Radosław Zacheja"
+		],
+		"phone": [
+		  "+48 60 162 2788"
+		],
+		"fax": [
+		  "+48 22 648 0409"
+		],
+		"email": [
+		  "radi@prolight.com.pl"
+		],
+		"website": "www.prolight.com.pl"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/prolightpl",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 27,
+	  "name": "TRANSCOLOR LUCJAN SIWCZYK",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-transcolor-lucjan-siwczyk.jpg",
+	  "address": "ul. Szeligowska 48<br />\n05-850 Szeligi<br />\nPoland",
+	  "country": "PL",
+	  "location": {
+		"lat": 52.22835,
+		"lng": 20.871843
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Tomasz Gajewski"
+		],
+		"phone": [
+		  "+48 22 846 2871"
+		],
+		"fax": [
+		  "+48 22 846 6869"
+		],
+		"email": [
+		  "tgajewski@transcolor.pl"
+		],
+		"website": "www.transcolor.pl"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/pages/TRANSCOLOR/161954670524857?ref=ts",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 28,
+	  "name": "NAN AUDIOVISUAIS Lda",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/Logo-NAN.jpg",
+	  "address": "Rua do Brasil, Lote 9B<br />\nZona Industrial de Ovar<br />\n3880-108 Ovar<br />\nPortugal",
+	  "country": "PT",
+	  "location": {
+		"lat": 40.882796,
+		"lng": -8.625049
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+351 256 579 650"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "info@nan.pt"
+		],
+		"website": "www.nan.pt"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/NAN-Audiovisuais-196523867042655/",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 29,
+	  "name": "dB Technolight",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-db-technolight.jpg",
+	  "address": "Cristianului street, 11<br />\n500033, Brasov<br />\nRomania ",
+	  "country": "RO",
+	  "location": {
+		"lat": 45.656914,
+		"lng": 25.557788
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Petru Hosu"
+		],
+		"phone": [
+		  "+40(0)268 331 410"
+		],
+		"fax": [
+		  "+40(0)268 332 230"
+		],
+		"email": [
+		  "sales@dbt.ro"
+		],
+		"website": "www.dbt.ro"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/dBTechnolight",
+		"twitter": "https://twitter.com/dBTechnolight",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 30,
+	  "name": "Pro Systems Group",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-pro-systems-group.jpg",
+	  "address": "Vysokovoltny Drive 13A<br />\n127566 Moscow<br />\nRussia",
+	  "country": "RU",
+	  "location": {
+		"lat": 55.821792,
+		"lng": 37.626908
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Nail Anderjanov"
+		],
+		"phone": [
+		  " +7 495 760 4 999"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "info@pro-systems-group.com"
+		],
+		"website": "www.pro-systems-group.com"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 31,
+	  "name": "PACIFIC LIGHTING (SINGAPORE) PTE LTD.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-pacific-lighting.jpg",
+	  "address": "7030 Ang Mo Kio Ave 5, #03-13<br />\nNorthstar@AMK<br />\n569880 Singapore",
+	  "country": "SG",
+	  "location": {
+		"lat": 1.378250,
+		"lng": 103.875446
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Sanjay Jegatheesan"
+		],
+		"phone": [
+		  "+65 64833603"
+		],
+		"fax": [
+		  "+65 64833266"
+		],
+		"email": [
+		  "sanjay@pacificlighting.com"
+		],
+		"website": "www.pacificlighting.net"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 32,
+	  "name": "Q-99 s.r.o.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/Q99-blue.png",
+	  "address": "Schengenská 1135/5<br />\n851 10 Čunovo, Bratislava<br />\nSlovaquie",
+	  "country": "SK",
+	  "location": {
+		"lat": 48.023637,
+		"lng": 17.194280
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Peter Kubanka"
+		],
+		"phone": [
+		  "+421 2 62 859 724"
+		],
+		"fax": [
+		  "+421 2 63 452 255"
+		],
+		"email": [
+		  "office@q-99.sk"
+		],
+		"website": "www.q-99.sk"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/pages/Q-99-Sound-Light/748754061831108",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 33,
+	  "name": "PANGOLIN D.O.O.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-pangolin-d-o-o.jpg",
+	  "address": "Podutiska 75<br />\nLjubljana 1000<br />\nSlovenia",
+	  "country": "SI",
+	  "location": {
+		"lat": 46.071818,
+		"lng": 14.467714
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Ante Uglesic"
+		],
+		"phone": [
+		  "+386 151 74 270"
+		],
+		"fax": [
+		  "+386 151 74 275"
+		],
+		"email": [
+		  "ante@pangolin.com"
+		],
+		"website": "www.pangolin.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/PangolinSystems",
+		"twitter": "https://twitter.com/PangolinSystems",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/PangolinShows",
+		"linkedin": "https://www.linkedin.com/in/pangolinsystems"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 34,
+	  "name": "DWR Distribution cc",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-dwr-distribution-cc.jpg",
+	  "address": "Block C, Unit 1<br />\nKimbult Industrial Park<br />\n9 Zeiss Road Lanerpark<br />\nHoneydew, Johannesburg<br />\nSouth Africa",
+	  "country": "ZA",
+	  "location": {
+		"lat": -26.089924,
+		"lng": 27.902844
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+ 27 11 794 5023"
+		],
+		"fax": [
+		  "++27 11 794 5702"
+		],
+		"email": [
+		  "sales@dwrdistribution.co.za"
+		],
+		"website": "www.dwrdistribution.co.za"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/DWRDistribution",
+		"twitter": "https://twitter.com/DWRDistribution",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": "https://www.linkedin.com/company/dwr-distribution"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 35,
+	  "name": "SPAI TEATRO Y TELEVISION SL",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-spai-nuevo.png",
+	  "address": "C/Villaescusa 30<br />\nlocales 3 y 4<br />\n28017 Madrid<br />\nSpain",
+	  "country": "ES",
+	  "location": {
+		"lat": 40.421403,
+		"lng": -3.631923
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Carlos Drabben"
+		],
+		"phone": [
+		  "+34 91 327 3662 / 72"
+		],
+		"fax": [
+		  "+34 91 32 7 3619"
+		],
+		"email": [
+		  "info@spai.es"
+		],
+		"website": "www.spai.es"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 36,
+	  "name": "BELLALITE LJUSDESIGN AB",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-bellalite-ljusdesign-ab.jpg",
+	  "address": "Morners Vag 122<br />\nVaxjo SE 35246<br />\nSweden",
+	  "country": "SE",
+	  "location": {
+		"lat": 56.886553,
+		"lng": 14.76547
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+46 (0)10-47 00 220"
+		],
+		"fax": [
+		  "+46 (0)10-47 00 265"
+		],
+		"email": [
+		  ""
+		],
+		"website": "www.bigblack.se/mdg"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/bellalite?fref=ts",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 37,
+	  "name": "CAST SWITZERLAND AG",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-cast-switzerland-ag.jpg",
+	  "address": "Rte de Chavalon, Z.I.C 77<br />\nVilleneuve, CH-1844<br />\nSwitzerland",
+	  "country": "CH",
+	  "location": {
+		"lat": 46.391019,
+		"lng": 6.934696
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Silvio Cibien"
+		],
+		"phone": [
+		  "+41 021 965 6000"
+		],
+		"fax": [
+		  "+41 021 965 6005"
+		],
+		"email": [
+		  "mail@castinfo.ch"
+		],
+		"website": "www.castinfo.ch"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/pages/cast-CAdolph-RST-Distribution-GmbH/142020025888541",
+		"twitter": "https://twitter.com/castinfo_de/",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 38,
+	  "name": "ELIT Light/Sound Technologies",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-elit-light-sound-technologies.jpg",
+	  "address": "Barbaros Bulvarı Ertugrul<br />\nSitesi No: 131/12<br />\n34349 Beşiktaş, Istanbul<br />\nTurkey",
+	  "country": "TR",
+	  "location": {
+		"lat": 41.061614,
+		"lng": 29.002329
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Unsal Cakir"
+		],
+		"phone": [
+		  "+90 212 227 34 54"
+		],
+		"fax": [
+		  "+90 212 227 34 84"
+		],
+		"email": [
+		  "info@elit-tr.com"
+		],
+		"website": "www.elit-tr.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/pages/elit-%C4%B1%C5%9F%C4%B1kses-teknolojileri/93663863890",
+		"twitter": "https://twitter.com/ElitIsikSes",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 39,
+	  "name": "ARTTECHNIKA LLC",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-arttechnika-ltd.jpg",
+	  "address": "Knyazhyy Zaton st. 16B<br />\n02095 Kyiv<br />\nUkraine",
+	  "country": "UA",
+	  "location": {
+		"lat": 50.445585,
+		"lng": 30.439199
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Vitalii Savchenko"
+		],
+		"phone": [
+		  "+38 067 354 4433"
+		],
+		"fax": [
+		  "+38 044 593 2571"
+		],
+		"email": [
+		  "support@arttechnika.ua"
+		],
+		"website": "www.arttechnika.ua"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 40,
+	  "name": "MDGFog UK",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo-mdg.jpg",
+	  "address": "3 Spinney View<br />\nStone Circle Road<br />\nRound Spinney<br />\nIndustrial Estate<br />\nNN3 8RF, Northampton<br />\nUnited Kingdom",
+	  "country": "GB",
+	  "location": {
+		"lat": 52.278039,
+		"lng": -0.83537
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Matt Wiseman"
+		],
+		"phone": [
+		  "+44 1604 741000"
+		],
+		"fax": [
+		  "+44 1604 741041"
+		],
+		"email": [
+		  "contact@mdgfoguk.com"
+		],
+		"website": ""
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "https://twitter.com/Haze_and_Fog_UK",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 41,
+	  "name": "A.C.T. LIGHTING, INC.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/ACTLighting.jpg",
+	  "address": "2313 North Valley St.<br />\nBurbank, CA 91505<br />\nUnited States",
+	  "country": "US",
+	  "location": {
+		"lat": 34.192909,
+		"lng": -118.35775
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Brian Dowd"
+		],
+		"phone": [
+		  "+1 844 996 0884"
+		],
+		"fax": [
+		  "+1 818 707 0512"
+		],
+		"email": [
+		  "sales@actlighting.com"
+		],
+		"website": "www.actlighting.com"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/ACTLighting",
+		"twitter": "https://twitter.com/ACTLighting",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/user/actlightinginc",
+		"linkedin": "https://www.linkedin.com/company/1320100?trk=tyah&amp;trkInfo=clickedVertical%3Acompany%2Cidx%3A2-1-3%2CtarId%3A1430244228453%2Ctas%3Aact%20light"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 42,
+	  "name": "T-20 Efectos Multimedia",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/T20.png",
+	  "address": "Valle de San Manuel Pte #39<br />\nCol. Real del Vallee<br />\nTlajomulco de Zuniga<br />\nJalisco 45640<br />\nMexico",
+	  "country": "MX",
+	  "location": {
+		"lat": 20.561838,
+		"lng": -103.41883
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Jesus Tirado Amador "
+		],
+		"phone": [
+		  "+52 33 37 97 00 46"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "info@efectosmultimedia.com"
+		],
+		"website": "www.efectosmultimedia.com/"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/pages/T20-Efectos-Multimedia/140925239283072?fref=ts",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 43,
+	  "name": "Prolaser Ltd.",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/Prolaser.jpg",
+	  "address": "Szent István u. 162<br />\nH-1213,  Budapest<br />\nHungary",
+	  "country": "HU",
+	  "location": {
+		"lat": 47.409149,
+		"lng": 19.090444
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Jr. Sandor Wenszky"
+		],
+		"phone": [
+		  "+36 30 5554477"
+		],
+		"fax": [
+		  "+36 1 4205130"
+		],
+		"email": [
+		  "ifjwenszky@prolaser.hu"
+		],
+		"website": "www.prolaser.hu"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 44,
+	  "name": "Mega-Sound",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/logo.jpg",
+	  "address": "Alepochoriou Avenue<br />\n(Gkeli Perivoli area)<br />\nMegara - 19100<br />\nGreece",
+	  "country": "GR",
+	  "location": {
+		"lat": 38.004003,
+		"lng": 23.343420
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Charalampos Oikonomopoulos"
+		],
+		"phone": [
+		  "+30 2296 0 29200"
+		],
+		"fax": [
+		  "+30 2296 0 26650"
+		],
+		"email": [
+		  "info@mega-sound.gr"
+		],
+		"website": "www.mega-sound.gr"
+	  },
+	  "social": {
+		"facebook": "",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 45,
+	  "name": "AVCOM Colombia SAS",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/AVCOM-COLOMBIA.png",
+	  "address": "Carrera 22 No. 84-36<br />\nBogotá, Colombia",
+	  "country": "CO",
+	  "location": {
+		"lat": 4.671123,
+		"lng": -74.061084
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Juan Triana"
+		],
+		"phone": [
+		  "+57 1 742 0004",
+		  " +57 301 2849591"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "jtriana@avcom.com.co"
+		],
+		"website": "www.avcom.com.co"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/avcomcolombia/",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 47,
+	  "name": "佛山市毅丰电器实业有限公司 ACMETEC HOLDING LIMITED",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/Acme-LOGO2.jpg",
+	  "address": "地址：广东省佛山市高明区荷城街道高明大道东898号，邮编528511<br />\nNo.898, Gaoming Avenue East, He Cheng Blvd, Gaoming District,<br />\nFoshan City, Guangdong Province, China P.C.: 528511",
+	  "country": "CN",
+	  "location": {
+		"lat": 22.872774,
+		"lng": 112.811957
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "苏健 Thomas"
+		],
+		"phone": [
+		  "+86 757-8832 5001"
+		],
+		"fax": [
+		  "+86 757-8832 5008"
+		],
+		"email": [
+		  "sujian@acme.com.cn"
+		],
+		"website": "www.acme.com.cn"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/AcmeLighting?fref=ts",
+		"twitter": "https://twitter.com/acmelightings",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/channel/UCICwkLtWFM_G986Ao0egaOA",
+		"linkedin": "https://www.linkedin.com/company/16274393/"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 48,
+	  "name": "ACMETEC HOLDINGS LIMITED TAIWAN BRANCH(H.K.)",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/Acme-LOGO21.jpg",
+	  "address": "No. 22, Songbai Road,<br />\nLinkou District<br />\nNew Taipei City, Taiwan 244",
+	  "country": "TW",
+	  "location": {
+		"lat": 25.092606,
+		"lng": 121.379729
+	  },
+	  "contact": {
+		"spokeperson": [
+		  ""
+		],
+		"phone": [
+		  "+886 2 2602-3905"
+		],
+		"fax": [
+		  "+886 2 2602-3907"
+		],
+		"email": [
+		  "tiger4283@gmail.com"
+		],
+		"website": "www.acme.com.cn"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/AcmeLighting?fref=ts",
+		"twitter": "https://twitter.com/acmelightings",
+		"googleplus": "",
+		"youtube": "https://www.youtube.com/channel/UCICwkLtWFM_G986Ao0egaOA",
+		"linkedin": "https://www.linkedin.com/company/16274393/"
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	},
+	{
+	  "id": 49,
+	  "name": "Gidron Levitan",
+	  "logo": "//www.mdgfog.com/c/mdgfog/uploads/img/Logo-Gidron-Levitan.jpg",
+	  "address": "43 Hameyasdim St.<br />\nMazor 7316000<br />\nIsrael",
+	  "country": "IL",
+	  "location": {
+		"lat": 32.054779,
+		"lng": 34.923042
+	  },
+	  "contact": {
+		"spokeperson": [
+		  "Nir Levitan"
+		],
+		"phone": [
+		  "+972 50 524 0502"
+		],
+		"fax": [
+		  ""
+		],
+		"email": [
+		  "nir@glaudio.co.il"
+		],
+		"website": "www.glaudio.co.il"
+	  },
+	  "social": {
+		"facebook": "https://www.facebook.com/Gidron.Levitan/posts/1926439874142283",
+		"twitter": "",
+		"googleplus": "",
+		"youtube": "",
+		"linkedin": ""
+	  },
+	  "is_distributor": false,
+	  "is_dealer": false,
+	  "is_rental": false,
+	  "is_gas_supplier": false
+	}
+  ]

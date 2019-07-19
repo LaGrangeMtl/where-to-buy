@@ -1,0 +1,54 @@
+{
+	"name": "@lagrange/where-to-buy",
+	"version": "0.2.0",
+	"private": false,
+	"main": "dist/where-to-buy.min.js",
+	"unpkg": "dist/where-to-buy.min.js",
+	"module": "dist/where-to-buy.es.js",
+	"dependencies": {
+		"google-maps-react": "^2.0.2"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject",
+		"build": "react-scripts build && rm -rf dist && mkdir dist && cp build/static/js/main.*.js dist/where-to-buy.min.js"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"@babel/cli": "^7.4.4",
+		"@babel/core": "^7.4.5",
+		"@babel/plugin-external-helpers": "^7.2.0",
+		"@babel/plugin-proposal-class-properties": "^7.4.4",
+		"@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+		"@svgr/rollup": "^4.3.0",
+		"babel-plugin-external-helpers": "^6.22.0",
+		"babel-preset-react-app": "^9.0.0",
+		"babel-preset-stage-0": "^6.24.1",
+		"react": "^16.8.6",
+		"react-dom": "^16.8.6",
+		"react-scripts": "3.0.1",
+		"rollup": "^1.16.2",
+		"rollup-plugin-babel": "^4.3.3",
+		"rollup-plugin-commonjs": "^10.0.0",
+		"rollup-plugin-node-resolve": "^5.1.0",
+		"rollup-plugin-peer-deps-external": "^2.2.0",
+		"rollup-plugin-postcss": "^2.0.3",
+		"rollup-plugin-url": "^2.2.2",
+		"webpack-cli": "^3.3.4"
+	}
+}
