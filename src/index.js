@@ -25,6 +25,4 @@ export function makeWhereToBuy(options = defaultOptions, root = document.getElem
 	);
 }
 
-makeWhereToBuy();
-
 window.makeWhereToBuy = makeWhereToBuy;

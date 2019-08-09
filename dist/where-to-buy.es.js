@@ -25785,7 +25785,6 @@ function makeWhereToBuy() {
     }, options)), root);
   });
 }
-makeWhereToBuy();
 window.makeWhereToBuy = makeWhereToBuy;
 
 export { makeWhereToBuy };
