@@ -25382,8 +25382,18 @@ function toRad(degrees) {
 
 function getJSON(url) {
   return new Promise(function (resolve, reject) {
+    if (!url) {
+      console.error('No url specified');
+      reject();
+      return;
+    }
+
     var request = new XMLHttpRequest();
     request.open('GET', url, true);
+
+    request.onerror = function (e) {
+      console.error(e);
+    };
 
     request.onload = function () {
       if (this.status >= 200 && this.status < 400) {
@@ -25492,6 +25502,7 @@ function (_Component) {
     });
 
     _defineProperty(_assertThisInitialized(_this), "sortPlaces", function (places, filters) {
+      if (!_this.props.sort) return places;
       return _this.props.sort(places, _this.state.geoloc, filters);
     });
 
@@ -25740,7 +25751,8 @@ _defineProperty(WhereToBuy, "propTypes", {
   defaultFilters: propTypes.arrayOf(propTypes.func),
   parseData: propTypes.func,
   afterFiltered: propTypes.func,
-  mapOptions: propTypes.object
+  mapOptions: propTypes.object,
+  tx: propTypes.object
 });
 
 var WhereToBuy$1 = wrapper(function (props) {
@@ -25757,7 +25769,8 @@ var defaultOptions = {
   language: 'en',
   tx: {
     'my_location': 'My Location'
-  }
+  },
+  filters: []
 };
 function makeWhereToBuy() {
   var options = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : defaultOptions;
@@ -25772,6 +25785,7 @@ function makeWhereToBuy() {
     }, options)), root);
   });
 }
+makeWhereToBuy();
 window.makeWhereToBuy = makeWhereToBuy;
 
 export { makeWhereToBuy };

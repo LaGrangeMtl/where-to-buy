@@ -7,7 +7,10 @@ const defaultOptions = {
 	language: 'en',
 	tx: {
 		'my_location': 'My Location',
-	}
+	},
+	filters: [
+
+	],
 };
 
 export function makeWhereToBuy(options = defaultOptions, root = document.getElementById('root')) {
@@ -21,5 +24,7 @@ export function makeWhereToBuy(options = defaultOptions, root = document.getElem
 		}
 	);
 }
+
+makeWhereToBuy();
 
 window.makeWhereToBuy = makeWhereToBuy;

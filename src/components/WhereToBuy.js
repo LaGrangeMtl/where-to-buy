@@ -42,6 +42,7 @@ class WhereToBuy extends Component {
 		parseData: PropTypes.func,
 		afterFiltered: PropTypes.func,
 		mapOptions: PropTypes.object,
+		tx: PropTypes.object,
 	}
 
 	constructor(props) {
@@ -153,6 +154,7 @@ class WhereToBuy extends Component {
 	}
 
 	sortPlaces = (places, filters) => {
+		if (!this.props.sort) return places;
 		return this.props.sort(places, this.state.geoloc, filters);
 	}
 
