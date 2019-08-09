@@ -302,6 +302,7 @@ class WhereToBuy extends Component {
 					isActive={sidebarActive}
 					onGeoloc={this.onGeoloc}
 					google={this.props.google}
+					tx={this.props.tx}
 					places={sortedPlaces}
 					onClickGeoloc={this.getLocation}
 					infoWindowTemplate={this.props.infoWindowTemplate}
@@ -331,6 +332,7 @@ export default GoogleApiWrapper(
 	(props) => ({
 		apiKey: props.apiKey,
 		language: props.lang || 'en',
+		tx: props.tx,
 		onMounted: props.onMounted,
 	}
 ))(WhereToBuy);

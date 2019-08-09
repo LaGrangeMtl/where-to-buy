@@ -42,6 +42,7 @@ class SidePanel extends Component {
 		onClickGeoloc: PropTypes.func,
 		infoWindowTemplate: PropTypes.func,
 		isActive: PropTypes.bool,
+		tx: PropTypes.object,
 	}
 
 	componentDidMount() {
@@ -85,7 +86,7 @@ class SidePanel extends Component {
 						ref={this.searchInputRef}
 						className="wtb-search-field"
 						type="text"
-						placeholder="My Location"
+						placeholder={this.props.tx.my_location}
 						autoComplete="off"
 						value={this.state.searchValue}
 						onChange={this.onChange}

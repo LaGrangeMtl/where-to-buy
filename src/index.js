@@ -5,7 +5,10 @@ import WhereToBuy from './components/WhereToBuy';
 const defaultOptions = {
 	apiKey: '',
 	language: 'en',
-}
+	tx: {
+		'my_location': 'My Location',
+	}
+};
 
 export function makeWhereToBuy(options = defaultOptions, root = document.getElementById('root')) {
 	return new Promise(
