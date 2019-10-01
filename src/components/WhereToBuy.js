@@ -33,6 +33,7 @@ class WhereToBuy extends Component {
 	static defaultProps = {
 		parseData: defaultParseData,
 		mapOptions: {},
+		onUpdateFilter: () => {},
 	}
 
 	static propTypes = {
@@ -266,7 +267,9 @@ class WhereToBuy extends Component {
 				});
 			}
 
-			this.props.onUpdateFilter(activeFilters);
+			if (this.props.onUpdateFilter) {
+				this.props.onUpdateFilter(activeFilters);
+			}
 
 			return {
 				activeFilters,
