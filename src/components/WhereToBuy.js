@@ -41,6 +41,7 @@ class WhereToBuy extends Component {
 		defaultFilters: PropTypes.arrayOf(PropTypes.func),
 		parseData: PropTypes.func,
 		afterFiltered: PropTypes.func,
+		onUpdateFilter: PropTypes.func,
 		mapOptions: PropTypes.object,
 		tx: PropTypes.object,
 	}
@@ -264,6 +265,8 @@ class WhereToBuy extends Component {
 					return filter !== id;
 				});
 			}
+
+			this.props.onUpdateFilter(activeFilters);
 
 			return {
 				activeFilters,

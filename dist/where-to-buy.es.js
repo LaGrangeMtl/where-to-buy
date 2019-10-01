@@ -24792,7 +24792,6 @@ var GoogleApi = function GoogleApi(opts) {
   var client = opts.client;
   var URL = opts.url || 'https://maps.googleapis.com/maps/api/js';
   var googleVersion = opts.version || '3.31';
-  var google = typeof window !== 'undefined' && window.google || null;
   var channel = null;
   var language = opts.language;
   var region = opts.region || null;
@@ -25626,6 +25625,8 @@ function (_Component) {
           });
         }
 
+        _this.props.onUpdateFilter(activeFilters);
+
         return {
           activeFilters: activeFilters
         };
@@ -25751,6 +25752,7 @@ _defineProperty(WhereToBuy, "propTypes", {
   defaultFilters: propTypes.arrayOf(propTypes.func),
   parseData: propTypes.func,
   afterFiltered: propTypes.func,
+  onUpdateFilter: propTypes.func,
   mapOptions: propTypes.object,
   tx: propTypes.object
 });
@@ -25770,7 +25772,8 @@ var defaultOptions = {
   tx: {
     'my_location': 'My Location'
   },
-  filters: []
+  filters: [],
+  onUpdateFilter: function onUpdateFilter() {}
 };
 function makeWhereToBuy() {
   var options = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : defaultOptions;

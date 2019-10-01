@@ -11,6 +11,7 @@ const defaultOptions = {
 	filters: [
 
 	],
+	onUpdateFilter: () => {},
 };
 
 export function makeWhereToBuy(options = defaultOptions, root = document.getElementById('root')) {
