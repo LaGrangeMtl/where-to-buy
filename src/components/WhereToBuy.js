@@ -284,7 +284,7 @@ class WhereToBuy extends Component {
 				activeFilters: isExclusive ? filters : [...new Set([...prevState.activeFilters, ...filters])],
 			}),
 			() => {
-				this.props.onUpdateFilter(state.activeFilters);
+				this.props.onUpdateFilter(this.state.activeFilters);
 			}
 		);
 	}
