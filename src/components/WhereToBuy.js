@@ -282,10 +282,11 @@ class WhereToBuy extends Component {
 	setFilters = (filters, isExclusive = true) => {
 		this.setState(prevState => ({
 				activeFilters: isExclusive ? filters : [...new Set([...prevState.activeFilters, ...filters])],
-			})
+			}),
+			() => {
+				this.props.onUpdateFilter(state.activeFilters);
+			}
 		);
-		
-		this.props.onUpdateFilter();
 	}
 
 	setLocation = (value) => {
