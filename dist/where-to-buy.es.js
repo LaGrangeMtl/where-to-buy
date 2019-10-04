@@ -25625,7 +25625,9 @@ function (_Component) {
           });
         }
 
-        _this.props.onUpdateFilter(activeFilters);
+        if (_this.props.onUpdateFilter) {
+          _this.props.onUpdateFilter(activeFilters);
+        }
 
         return {
           activeFilters: activeFilters
@@ -25641,6 +25643,8 @@ function (_Component) {
           activeFilters: isExclusive ? filters : _toConsumableArray(new Set([].concat(_toConsumableArray(prevState.activeFilters), _toConsumableArray(filters))))
         };
       });
+
+      _this.props.onUpdateFilter();
     });
 
     _defineProperty(_assertThisInitialized(_this), "setLocation", function (value) {
@@ -25686,11 +25690,14 @@ function (_Component) {
               places: _this2.props.parseData(data, _this2.props.google)
             }, _this2.setupMap);
           });
-          getJSON(_this2.props.countriesUrl).then(function (data) {
-            _this2.setState({
-              countries: data
-            }, _this2.setupMap);
-          });
+
+          if (_this2.props.countriesUrl) {
+            getJSON(_this2.props.countriesUrl).then(function (data) {
+              _this2.setState({
+                countries: data
+              }, _this2.setupMap);
+            });
+          }
         });
       }
 
@@ -25743,7 +25750,8 @@ function (_Component) {
 
 _defineProperty(WhereToBuy, "defaultProps", {
   parseData: defaultParseData,
-  mapOptions: {}
+  mapOptions: {},
+  onUpdateFilter: function onUpdateFilter() {}
 });
 
 _defineProperty(WhereToBuy, "propTypes", {

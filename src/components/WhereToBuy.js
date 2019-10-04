@@ -95,11 +95,13 @@ class WhereToBuy extends Component {
 					}, this.setupMap);
 				});
 
-				getJSON(this.props.countriesUrl).then(data => {
-					this.setState({
-						countries: data,
-					}, this.setupMap);
-				});
+				if (this.props.countriesUrl) {
+					getJSON(this.props.countriesUrl).then(data => {
+						this.setState({
+							countries: data,
+						}, this.setupMap);
+					});
+				}
 			});
 		}
 
@@ -282,6 +284,8 @@ class WhereToBuy extends Component {
 				activeFilters: isExclusive ? filters : [...new Set([...prevState.activeFilters, ...filters])],
 			})
 		);
+		
+		this.props.onUpdateFilter();
 	}
 
 	setLocation = (value) => {
