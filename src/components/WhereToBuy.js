@@ -145,7 +145,7 @@ class WhereToBuy extends Component {
 	}
 
 	filterPlaces = (places) => {
-		const filtered = this.applyFilters(places, this.props.defaultFilters);
+		const filtered = this.props.defaultFilters.length > 0 ? this.applyFilters(places, this.props.defaultFilters) : places;
 		if (this.state.activeFilters.length === 0) {
 			return this.props.filters.length > 0 ? [] : filtered;
 		}
