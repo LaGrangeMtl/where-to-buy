@@ -4,7 +4,7 @@ import WhereToBuy from './components/WhereToBuy';
 
 const defaultOptions = {
 	apiKey: '',
-	language: 'en',
+	lang: 'en',
 	tx: {
 		'my_location': 'My Location',
 	},
