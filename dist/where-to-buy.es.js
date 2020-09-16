@@ -30667,7 +30667,7 @@ function (_Component) {
     });
 
     _defineProperty(_assertThisInitialized(_this), "filterPlaces", function (places) {
-      var filtered = _this.applyFilters(places, _this.props.defaultFilters);
+      var filtered = _this.props.defaultFilters.length > 0 ? _this.applyFilters(places, _this.props.defaultFilters) : places;
 
       if (_this.state.activeFilters.length === 0) {
         return _this.props.filters.length > 0 ? [] : filtered;
@@ -30738,11 +30738,12 @@ function (_Component) {
         var country = null;
 
         if (geoloc.address_components) {
-          country = geoloc.address_components.find(function (comp) {
+          var foundCountry = geoloc.address_components.find(function (comp) {
             return comp.types.find(function (t) {
               return t === 'country';
             });
-          }).short_name;
+          });
+          country = foundCountry ? foundCountry.short_name : null;
         }
 
         return {
@@ -30958,7 +30959,7 @@ var WhereToBuy$1 = wrapper(function (props) {
 
 var defaultOptions = {
   apiKey: '',
-  language: 'en',
+  lang: 'en',
   tx: {
     'my_location': 'My Location'
   },

@@ -209,7 +209,8 @@ class WhereToBuy extends Component {
 		this.setState(prevState => {
 			let country = null;
 			if (geoloc.address_components) {
-				country = geoloc.address_components.find(comp => comp.types.find(t => t === 'country')).short_name;
+				const foundCountry = geoloc.address_components.find(comp => comp.types.find(t => t === 'country'));
+				country = foundCountry ? foundCountry.short_name : null;
 			}
 
 			return {
